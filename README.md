@@ -1,14 +1,14 @@
-Hiring Platform
+#Hiring Platform
 
-# Project Overview
+## Project Overview
 A web-based Hiring Management Application built using React + TypeScript + Tailwind CSS.
 
-# Tech Stack Used
+## Tech Stack Used
 Front End : React, TypeScript, Tailwindcss
 Back End: Mock API 
 Tools : VS Code, Git
 
-# How To Run Locally
+## How To Run Locally
 1. Clone Repository
    git clone https://github.com/Ameliadiah-p/hiring-platform.git
    
@@ -16,12 +16,12 @@ Tools : VS Code, Git
    cd hiring-platform
    
 3. Install dependencies
-   npm install
-   npm install json-server
+   1). npm install
+   2). npm install json-server
    
 4. Jalankan server local
-   npm run dev
-   npm run mock-api
+   1). npm run dev
+   2). npm run mock-api
    
 5. Buka di Browser
    http://localhost:5173
