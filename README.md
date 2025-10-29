@@ -1,6 +1,7 @@
-# Hiring Platform
+Hiring Platform
 
 # Project Overview
+A web-based Hiring Management Application built using React + TypeScript + Tailwind CSS.
 
 # Tech Stack Used
 Front End : React, TypeScript, Tailwindcss
