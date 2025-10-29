@@ -4,9 +4,9 @@
 A web-based Hiring Management Application built using React + TypeScript + Tailwind CSS.
 
 ## Tech Stack Used
-#### Front End : React, TypeScript, Tailwindcss
-#### Back End: Mock API 
-#### Tools : VS Code, Git
+Front End : React, TypeScript, Tailwindcss
+Back End: Mock API 
+Tools : VS Code, Git
 
 ## How To Run Locally
 1. Clone Repository
