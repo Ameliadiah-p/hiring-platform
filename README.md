@@ -1,4 +1,9 @@
 # Hiring Platform
+Untuk login melalui vercel jika user admin login menggunakan 
+email : admin@example.com dengan 
+password : 123456. Dann jika user candidate daftar menggunakan gmail. Atau gunakan 
+email : amelia@gmail.com dengan 
+password : 123456
 
 ## Project Overview
 A web-based Hiring Management Application built using React + TypeScript + Tailwind CSS.
